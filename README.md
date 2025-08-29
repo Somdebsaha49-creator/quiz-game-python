@@ -1,4 +1,4 @@
-🧩 Quiz Game
+## 🧩 Quiz Game
 
 A fun and interactive Python-based Quiz Game designed for practicing multiple-choice questions. This project is a beginner-friendly yet smart implementation, showcasing Python’s control structures, user input handling, and basic game logic.
 
@@ -28,12 +28,22 @@ While developing this project, I identified areas where the game can be expanded
 
 🔹 Case Sensitivity Improvement – As I noticed from earlier code feedback, it would be better to ensure answers follow a sentence case pattern (first letter capitalized). This makes the quiz both challenging and uniform.
 
-🚀 Getting Started
+## 🚀 Getting Started
 
 Prerequisites
 
 Make sure you have Python 3 installed.
 
-📌 Author
+## How to Run
+
+1. Clone the repository.  
+
+2. Open the project folder in **VS Code**.  
+
+3. Make sure Python is installed and select the correct interpreter.  
+
+4. Run directly from VS Code (▶ Run button).
+
+## 📌 Author
 
 👤 Developed by [Somdeb Saha] – exploring the world of Python and building cool projects.
