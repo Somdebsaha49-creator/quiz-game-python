@@ -46,4 +46,4 @@ Make sure you have Python 3 installed.
 
 ## 📌 Author
 
-👤 Developed by [Somdeb Saha] – exploring the world of Python and building cool projects.
+👤 Developed by [**Somdeb Saha**] – exploring the world of Python and building cool projects.
